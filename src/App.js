@@ -1,4 +1,5 @@
-import PlayerList from './PlayerList'
+import './App.css'
+import PlayerList from './components/PlayerList'
 
 const App = () => {
   return (
